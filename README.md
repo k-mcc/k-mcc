@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here you can find some of my most creative personal projects. My last one included algorithms that create several different customized playlists in Spotify. Explore my code!
+Here you can find some of my most creative personal projects. My last one included algorithms that create customized playlists in Spotify. Explore my code!
 
 <!--
 **k-mcc/k-mcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
