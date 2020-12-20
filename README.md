@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Here you can find some of my most creative personal projects. My last one included algorithms that create customized playlists in Spotify. Explore my code!
+You can find some of my most creative personal projects here. Explore my code!
+- Currently, I'm working on a project that generates a dynamic visual representation of songs using Java Swing and an API for song lyrics. I've been very interested in creating art through code lately.
+- My previous project included algorithms that create customized playlists in Spotify.
 
 <!--
 **k-mcc/k-mcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
