@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 You can find some of my most creative personal projects here. Explore my code!
-- Currently, I'm working on a project that generates a dynamic visual representation of songs using Java Swing and an API for song lyrics. I've been very interested in creating art through code lately.
-- My previous project included algorithms that create customized playlists in Spotify.
+- Currently, I'm perfecting a website I built that allows for surgical patients to generate a timetable that tracks their post-op medications.
+- My previous project generated a dynamic visual representation of a musical artist using Java Swing and an API for song lyrics. Before that, I developed algorithms that create customized playlists in Spotify.
 
 <!--
 **k-mcc/k-mcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
