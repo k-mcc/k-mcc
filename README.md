@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a first-year studying computer science at the University of Virginia.
+- I'm a first-year studying computer science at the University of Virginia. Here, you can find some of my personal projects.
 - Currently, I'm perfecting a website where surgical patients can generate a timetable to track their post-op medications. I built the website using HTML, CSS, JavaScript, and PHP.
 - My previous project created a dynamic visual representation of any musical artist using Java Swing and an API for song lyrics. Before that, I developed algorithms that create personalized playlists for different occasions in Spotify.
 
