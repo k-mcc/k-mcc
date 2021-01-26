@@ -6,8 +6,6 @@ I study computer science at the University of Virginia. I'm especially passionat
 - In December, I created [a program](https://github.com/k-mcc/art) that generates a dynamic visual representation of any given musical artist using Java Swing and an API for song lyrics. 
 - During the fall, I developed [a set of algorithms](https://github.com/k-mcc/web-apps) that create personalized playlists for different occasions in Spotify.
 
-Explore my code!
-
 <!--
 **k-mcc/k-mcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
