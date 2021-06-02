@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I study computer science and environmental sciences at the University of Virginia. I'm especially passionate about creating technology that combats climate change. Here, you can find a few of my personal projects:
+I study computer science and environmental sciences at the University of Virginia. I'm especially passionate about creating technology that works towards environmental justice and combats climate change. Here, you can find a few of my personal projects:
 
 - Currently, I'm perfecting [a website](https://github.com/k-mcc/medication-schedule) where surgical patients can generate a timetable to track their post-op medications. I built the website using HTML, CSS, JavaScript, and PHP. 
 - In December, I created [a program](https://github.com/k-mcc/art) that generates a dynamic visual representation of any given musical artist using Java Swing and an API for song lyrics. 
