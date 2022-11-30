@@ -2,6 +2,8 @@
 
 I study computer science and environmental sciences at the University of Virginia. I'm especially interested in planetary geology and the exploration of ocean worlds such as Europa.
 
+My personal website: [https://k-mcc.github.io/](https://k-mcc.github.io/)
+
 <!--
 **k-mcc/k-mcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
