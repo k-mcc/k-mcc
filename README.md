@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-I study computer science and environmental sciences at the University of Virginia. I'm especially interested in planetary geology and the exploration of ocean worlds such as Europa.
+I am a PhD student in Geophysics at Stanford. In my research, I seek to refine and apply radar remote sensing techniques (mainly InSAR) to study the deformation of volcanoes and ice sheets on Earth and other planets.
+I graduated from the University of Virginia with degrees in computer science and environmental sciences. I'm especially interested the exploration of ocean worlds such as Europa.
 
 My personal website: [https://k-mcc.github.io/](https://k-mcc.github.io/)
 
