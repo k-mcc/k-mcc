@@ -1,7 +1,6 @@
 ### Hi there! 👋
 
-My name is Kate and I am a PhD student in Geophysics at Stanford. In my research, I seek to refine and apply radar remote sensing techniques (mainly InSAR) to study the deformation of volcanoes on Earth and Venus.
-I graduated from the University of Virginia with degrees in computer science and environmental sciences along with an astronomy minor.
+My name is Kate and I am a PhD candidate studying Planetary Geophysics at Stanford. I am a collaborator on NASA's VERITAS mission to Venus. In my research, I study how we can utilize radar remote sensing techniques (mainly InSAR) to observe volcanic and tectonic surface deformation on Venus. I graduated from the University of Virginia with degrees in computer science and environmental sciences along with an astronomy minor.
 
 My personal website: [https://k-mcc.github.io/](https://k-mcc.github.io/)
 
